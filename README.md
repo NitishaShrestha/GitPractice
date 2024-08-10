@@ -1,4 +1,4 @@
 # GitPractice
 Neha Shrestha
 <br>
-Practicing Git HUb
+Practicing Git Hub
